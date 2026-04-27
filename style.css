@@ -1,0 +1,69 @@
+    body{
+        height:10%;
+        width: 10%;
+    }
+table{
+    margin: 10px 0px 0px 150px;
+    width: 10%;
+    height: 10%;
+    font-family: sans-serif;
+}
+table tr td{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    transition: all 0.3s ease-in-out;
+}
+table tr td:hover{
+      transform: scale(1.09);
+}
+#table2{
+    margin-top: 100px;
+    margin-left: 665px;
+}
+caption{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(27, 27, 164);
+    margin: 150px 75px;
+}
+p{
+    padding: 1px 3px 1px 3px;
+    line-height: 15px;
+    font-size: 48px;
+}
+.d-green{
+    background-color: rgb(18, 152, 18);
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.pink-red{
+    background-color: rgb(250, 18, 92);
+}
+.purple{
+    background-color: purple;
+}
+.blue{
+    background-color: rgb(2, 128, 255);
+}
+.d-blue{
+    background-color: rgb(20, 20, 98);
+}
+.gray{
+    background-color: rgb(158, 158, 158);
+}
+.red{
+    background-color: red;
+}
+.l-blue{
+    background-color: rgb(143, 213, 237);
+}
+.l-green{
+    background-color: rgb(146, 230, 19);
+}
